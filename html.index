@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorite Music Videos</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Favorite Music Videos</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Video 1</h2>
+            <p>This is the first video from my favorite artist. It showcases amazing visuals and catchy tunes.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/wFU8plUZccs?si=QXJRxTdwqw2TTjRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Source: <a href="https://www.youtube.com/watch?v=wFU8plUZccs" target="_blank">YouTube</a></p>
+        </section>
+
+        <section>
+            <h2>Video 2</h2>
+            <p>This is the second video from the same artist, highlighting their versatility and creativity.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/lKwON5JcAv0?si=Ybz28ffNhzDANSEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Source: <a href="https://www.youtube.com/watch?v=lKwON5JcAv0" target="_blank">YouTube</a></p>
+        </section>
+
+        <section>
+            <h2>Video 3</h2>
+            <p>This third video captures the essence of their musical journey and artistic expression.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/c30s6OnCApw?si=ih5wQB16bg9WOUUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p>Source: <a href="https://www.youtube.com/watch?v=c30s6OnCApw" target="_blank">YouTube</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Kaitlin Holldorf</p>
+    </footer>
+</body>
+</html>
